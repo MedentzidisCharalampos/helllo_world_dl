@@ -2,7 +2,7 @@
 
 The problem:
 
-We have a set of numbers and try to find the patterns between them. The problem we have to solve is that of a linear Regression.  
+We have a set of numbers and try to find the patterns between them. The problem we have to solve is that of a Linear Regression.  
 
 The data:
 
